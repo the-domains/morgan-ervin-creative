@@ -1,7 +1,7 @@
 name: Morgan Ervin Creative
 favicon: null
-layout_spectrum: 0.8113954029977322
-typography_spectrum: 0.4491319661028683
+layout_spectrum: 0.99811
+typography_spectrum: 0.65147
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.9865918627474457
-  lightness: 0.29661700571887195
-  saturation: 0.2507097930647433
-  rhythmicContrast: 0.2369531518779695
+    - '#ffffff'
+    - '#131313'
+    - '#d1c6a8'
+    - '#b31b28'
+    - '#68767f'
+  brandStrength: 0.875
+  lightness: 0.625
+  saturation: 0.375
+  rhythmicContrast: 0.75
 purpose: []
