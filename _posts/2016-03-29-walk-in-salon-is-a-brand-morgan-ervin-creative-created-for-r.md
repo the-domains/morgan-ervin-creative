@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Walk In Salon is a brand Morgan Ervin Creative created for Robert Cromeans, the Global Artistic and Business Director of John Paul Mitchell Systems. Edgy, urban, street art meets runway high-fashion in a trendy value-focused consumer brand. Each store is unique, and though graphic murals and artwork have similar characteristics, and some shared patterns, each store is built to embrace the neighborhood it's built in.\_"
-datePublished: '2016-03-29T03:55:14.397Z'
-dateModified: '2016-03-29T03:54:26.197Z'
+datePublished: '2016-03-29T03:56:31.505Z'
+dateModified: '2016-03-29T03:55:21.413Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-29-walk-in-salon-is-a-brand-morgan-ervin-creative-created-for-r.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-29-walk-in-salon-is-a-brand-morgan-ervin-creative-created-for-r.md
-published: true
 url: walk-in-salon-is-a-brand-morgan-ervin-creative-created-for-r/index.html
 _type: Article
 
